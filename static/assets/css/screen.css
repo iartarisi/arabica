@@ -39,10 +39,10 @@ body {
     max-width: 650px;
     margin: 0 auto;
     font-family: "Lato", sans-serif;
-	font-weight: 300;
+	/* font-weight: 300; */
     font-size: 1rem;
     line-height: 1.7;
-    color: #3A4145;
+    /* color: #3A4145; */
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -133,7 +133,8 @@ hr {
 }
 
 .post a:visited {
-    color: #9EABB3;
+    /* color: #9EABB3; */
+    color: #D84C08;
     text-decoration: none;
 }
 
